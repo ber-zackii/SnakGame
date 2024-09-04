@@ -20,10 +20,10 @@ This is a simple Snake game implemented in Python using the Pygame library. The 
    ```bash
    pip install pygame
 
-3.**Run Game **:
-    ```bash
+3. **Run Game **:
+   <br>
     python snake_game.py
-
+</brW
 
 
 
