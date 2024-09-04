@@ -22,9 +22,9 @@ This is a simple Snake game implemented in Python using the Pygame library. The 
 
 3. **Run Game**:
    ```bash
-   <br>
+ 
     python snake_game.py
-</br>
+
 
 
 
